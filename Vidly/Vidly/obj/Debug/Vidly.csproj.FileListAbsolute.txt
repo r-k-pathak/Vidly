@@ -113,7 +113,6 @@ D:\Study_R_K_Pathak\ASP.NETMVC\Project\Vidly\Vidly\bin\Microsoft.AI.DependencyCo
 D:\Study_R_K_Pathak\ASP.NETMVC\Project\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
 D:\Study_R_K_Pathak\ASP.NETMVC\Project\Vidly\Vidly\bin\Microsoft.AI.Web.xml
 D:\Study_R_K_Pathak\ASP.NETMVC\Project\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Study_R_K_Pathak\ASP.NETMVC\Project\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 D:\Study_R_K_Pathak\ASP.NETMVC\Project\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 D:\Study_R_K_Pathak\ASP.NETMVC\Project\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 D:\Study_R_K_Pathak\ASP.NETMVC\Project\Vidly\Vidly\obj\Debug\Vidly.dll
